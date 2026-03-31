@@ -16,12 +16,12 @@ Saya menggunakan beberapa metode pengujian untuk memastikan reliabilitas API:
 3. **Edge Case & Security**: Menguji batas bawah/atas (BVA), simulasi XSS Injection, dan verifikasi tipe data ketat (*strict typing*).
 
 ## 📂 Struktur Repositori
-* `TEST_SCENARIOS.md`: Tabel detail skenario pengujian (4x4 per endpoint).
-* `QA_Tirtamas_Collection.json`: File koleksi Postman yang berisi request dan script automasi.
 * `README.md`: Dokumentasi utama proyek.
+* `TEST_SCENARIOS.md`: Tabel detail skenario pengujian (4x4 per endpoint).
+* `Technical Test QA Automation Engineer Intern.postman_collection.json`: File koleksi Postman yang berisi request dan script automasi.
 
 ## ⚙️ Cara Menjalankan Tes
-1. Download file `QA_Tirtamas_Collection.json` dari repositori ini.
+1. Download file `Technical Test QA Automation Engineer Intern.postman_collection.json` dari repositori ini.
 2. Buka aplikasi **Postman**.
 3. Klik tombol **Import** dan pilih file JSON tersebut.
 4. Klik kanan pada folder koleksi, lalu pilih **Run Collection**.
